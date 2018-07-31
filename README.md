@@ -1,2 +1,1 @@
-# test
-this is just test git training
+This test file
